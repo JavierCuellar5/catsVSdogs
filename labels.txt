@@ -1,2 +1,0 @@
-0 gatos
-1 perros
